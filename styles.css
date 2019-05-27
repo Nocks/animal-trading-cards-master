@@ -1,1 +1,28 @@
-/* add your CSS here */
+.animal-image {
+  max-width: 400px;
+}
+
+.animal-card, .animal-info {
+  border: 1px solid rgb(190,190,190);
+}
+
+.animal-card {
+  padding: 15px 30px 30px 30px;
+}
+
+.animal-info {
+  margin-top: 15px;
+  padding: 15px;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+.animal-details .properties {
+  font-weight: bold;
+}
+
+.animal-details li {
+  list-style: none;
+}
